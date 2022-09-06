@@ -1,9 +1,9 @@
 ##  Hi! I'm Yago 👋
 
-<img src="https://github.com/qpenta/qpenta/blob/main/mygifpenta.gif" min-width="350px" max-width="350px" width="350px" align="right" alt="qpenta">
+<img src="https://github.com/qpenta/qpenta/blob/main/mygifpenta.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="qpenta">
 
 <p align="left"> 
-  Olá, atualmente minha meta é conseguir um estágio em desenvolvedor <strong>Front-end</strong>.<br><br>
+  Olá, atualmente minha meta é conseguir um estágio em desenvolvedor <strong>Front-end</strong>.<br>
   Sempre procurando uma <strong>meta</strong
   > nova para concluir.
 </p>
