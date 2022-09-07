@@ -1,4 +1,5 @@
-##  Hi! I'm Yago 👋
+##  ORIGINAL: QPENTA
+
 
 <img src="https://github.com/qpenta/qpenta/blob/main/perfeitooogifpenta.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador qpenta">
 
@@ -44,11 +45,7 @@
 
 <br><br><br>
 
-<div align="center">
-  <a href="https://github.com/qpenta">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=qpenta&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qpenta&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
+
 
 <br>
 
@@ -63,5 +60,5 @@
   
 </div>
 
-![snake gif](https://github.com/qpenta/qpenta/blob/output/github-contribution-grid-snake.svg)
+
   
