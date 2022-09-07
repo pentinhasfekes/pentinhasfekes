@@ -4,8 +4,7 @@
 <img src="https://github.com/qpenta/qpenta/blob/main/perfeitooogifpenta.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador qpenta">
 
 <p align="left"> 
-  Olá, atualmente minha meta é conseguir um estágio em desenvolvedor <strong>Front-end</strong>.<br>
-  Sempre procurando uma <strong>meta</strong
+APENAS UMA FAKE QUE CRIEI PARA TESTES<strong>meta</strong
   > nova para concluir.
 </p>
 
